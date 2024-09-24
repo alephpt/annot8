@@ -1,6 +1,6 @@
+# Annot8 - Capture the Moment
 ![image](https://github.com/user-attachments/assets/10101984-8bdc-4ecc-b6ce-b622dd6a0cf2)
-
-# Annot8 Keypress & Screenshot Capture Script
+Annotation software
 
 ## Overview
 
