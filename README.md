@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2b81d45-2440-4530-8a13-ceb03224ed32)
+![image](https://github.com/user-attachments/assets/10101984-8bdc-4ecc-b6ce-b622dd6a0cf2)
 
 # Annot8 Keypress & Screenshot Capture Script
 
