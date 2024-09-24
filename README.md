@@ -1,6 +1,10 @@
 # Annot8 - Capture the Moment
 ![image](https://github.com/user-attachments/assets/10101984-8bdc-4ecc-b6ce-b622dd6a0cf2)
-Annotation software
+
+Are you tired of having to document your steps, and logging your actions to create documentation, retracing your steps?
+Annot8 was designed to log keystrokes and store screenshots, to alleviate the need to document every single step while also doing the work.
+
+Just do your work, and let annot8 document the process.
 
 ## Overview
 
@@ -65,3 +69,12 @@ This script captures user keypresses and screenshots during an interactive sessi
 - The script is designed for Linux environments using the Wayland display server. It may not work on Windows or macOS without modifications.
 - It does not handle input devices that are not keyboards.
 - Caps Lock handling is global and affects all text until toggled off.
+
+## Future Improvements
+ - Better Parsing
+ - Allowing for user defined input for descriptions, file modification, etc.
+ - Multiple Directories (currently everything goes to the same place)
+ - Cross platform support
+ - LLM integration to add step-by-step documentation and reformatting.
+ - Pausing
+ - Installation process and system integrations (keybinds)
